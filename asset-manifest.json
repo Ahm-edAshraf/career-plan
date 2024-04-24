@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/career-plan/static/css/main.8897a728.css",
+    "main.js": "/career-plan/static/js/main.2f04a282.js",
+    "static/js/453.43adb398.chunk.js": "/career-plan/static/js/453.43adb398.chunk.js",
+    "static/media/sulogo.png": "/career-plan/static/media/sulogo.c92ed9f36977dd8d9420.png",
+    "static/media/oislogo.png": "/career-plan/static/media/oislogo.a33d37a19e1344bdda71.png",
+    "static/media/ataalogo.png": "/career-plan/static/media/ataalogo.852c5db2dab91857217f.png",
+    "index.html": "/career-plan/index.html",
+    "main.8897a728.css.map": "/career-plan/static/css/main.8897a728.css.map",
+    "main.2f04a282.js.map": "/career-plan/static/js/main.2f04a282.js.map",
+    "453.43adb398.chunk.js.map": "/career-plan/static/js/453.43adb398.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8897a728.css",
+    "static/js/main.2f04a282.js"
+  ]
+}
